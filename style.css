@@ -1,0 +1,27 @@
+#header{
+    width: 100%;
+    font-family: cursive;
+}
+
+h3{
+    font-size: 40px;
+}
+
+img{
+    height: 300px;
+    width: 200px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.style_div{
+    margin-left: 250px;
+    background-color: aqua;
+}
+
+#div1{
+    background-color:papayawhip;
+    border-radius: 20px;
+    margin-right: 10px;
+    box-shadow:5px,5px,5px,grey;
+    border-style: solid;
+}
